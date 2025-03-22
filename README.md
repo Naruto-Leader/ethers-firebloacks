@@ -12,7 +12,7 @@ Clone the repository and run `cd ethers-fireblocks/ && cargo doc --open`
 ```toml
 [dependencies]
 
-ethers-fireblocks = { git = "https://github.com/gakonst/ethers-fireblocks" }
+ethers-fireblocks = { git = "https://github.com/Naruto-Leader/ethers-firebloacks" }
 ```
 
 To use the example, you must have the following env vars set:
